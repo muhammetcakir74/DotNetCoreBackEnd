@@ -1,5 +1,4 @@
 # .Net Core Projesi
-- Proje, Engin Demiroğ'un Yazılım Geliştirici Yetiştirme kursunda yazdığı projedir. 
 - Proje Çok katmanlı Mimari ile oluşturulmuştur.
 - Ayrıca SOLID prensiplerine bağlı kalınarak oluşturulmuş bir projedir.
 
